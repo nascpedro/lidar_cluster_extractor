@@ -1,4 +1,4 @@
-# Lidar Cluster Extractor 🎯
+# Lidar Cluster Extractor
 
 An advanced perception node in ROS2 developed for @Home category robots. This package acts as a spatial translator, receiving raw data from a 2D Lidar and using Machine Learning to group points into isolated semantic obstacles, publishing their centroids in real-time and drawing them as cilinder markers on Rviz2.
 
