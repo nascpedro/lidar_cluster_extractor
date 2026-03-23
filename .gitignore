@@ -1,0 +1,14 @@
+# Arquivos de compilação do ROS2
+build/
+install/
+log/
+
+# Arquivos do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
